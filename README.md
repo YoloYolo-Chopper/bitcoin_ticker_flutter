@@ -1,6 +1,6 @@
 # bitcoin_ticker_flutter
 
-A new Flutter project.
+This project is developed by following Angela Yu's Flutter Development Camp course.
 
 ## Getting Started
 
